@@ -1,0 +1,10 @@
+name: 'Andrew Haine'
+super: true
+id: 075d5cb5-1651-47b3-963d-8754e3d48aeb
+password_hash: $2y$10$ETri3OsP9pC00QHjpnOHQ.OcKD1ABMIw/D0tn3CaBJ0R6.1LFjXiK
+preferences:
+  collections:
+    images:
+      after_save: create_another
+    pages:
+      after_save: continue_editing
